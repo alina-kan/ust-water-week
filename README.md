@@ -1,1 +1,3 @@
-# ust-water-week
+####University of St. Thomas presents...
+#Water Week: Flowing Through St. Thomas
+
