@@ -33,7 +33,7 @@ creek underneath the campus
 
 ### Enbridge and the Bleeding Aquifer
 
-![Image of Enbridge lines](https://chorus.stimg.co/22899996/ows_a4dddab2_a5f9_447f_9b26_2679f4f8819c.jpg?fit=crop&crop=faces)
+![Image of Enbridge lines](https://chorus.stimg.co/22931950/merlin_64484269.jpg?w=525&h=600&format=auto%2Ccompress&cs=tinysrgb&auto=compress&crop=faces&dpr=2)
 
 ## Catholic Social Teaching and Water Justice:
 
