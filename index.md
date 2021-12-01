@@ -23,9 +23,13 @@ Over 100 years ago near the founding of the University of St. Thomas, much of wh
 ![Lake Mennith](https://news.stthomas.edu/wp-content/uploads/2021/07/lake-mennith-1887.jpg)
 
 ### Murray J. Harpole Legacy Fountain
+Have you run through the fountain yet? One of St. Thomas students’ most beloved tradition comes from one of the most visible places that water is presented on campus. Installed in the summer of 2012, the Murray J. Harpole Legacy Fountain has become one of the most iconic features of the St. Thomas campus. With funding from Pentair Inc. (a Twin Cities water technologies company), the fountain was constructed to memorialize their first CEO, Murray J. Harpole, who was a longtime benefactor of UST’s engineering and entrepreneurship programs. Even though we love and cherish those who support our education at St. Thomas, it is important to think critically about how the fountain uses water on campus. 
+![The Famous UST Fountain](https://news.stthomas.edu/wp-content/uploads/2020/10/200929LJD037_015.jpg)
 
 ### Secret Water Area in the Library! 
-creek underneath the campus
+Underneath the O'Shaughnessy-Frey library, you can hear the sound of water flowing. But where does it come from? Many years ago, a...
+
+![banner](https://stthomas.instructure.com/users/42657/files/5128731/preview?verifier=8s0US4RlnEvY2qi7mHCvnFKJBCYL8UhaQ9F9v1Yx)
 
 ## Water Justice in Minnesota
 ### Line 3
