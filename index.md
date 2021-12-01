@@ -1,12 +1,12 @@
 ---
 title: Water Week: Flowing Through St. Thomas
 layout: template
-filename: NAME OF THIS .md FILE HERE
+filename: index.md
 --- 
 
 #### University of St. Thomas presents...
 
-# Water Week: Flowing Through St. Thomas
+# Water Week: Flowing Through St. Thomas INDEX PAGE
 
 > *Mni Wiconi - Water is Life*
 
