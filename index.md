@@ -14,6 +14,7 @@ filename: NAME OF THIS .md FILE HERE
 From December 6 to December 10, the University of St. Thomas will celebrate water and explore what water is to us. Water has many different meanings to many people, but one universal idea stands out from the rest: "Water is Life." Water is constantly around us, and we use it in our everyday lives. From the food we eat to the clothes we wear, water is essential. 
 
 ## The History of Water On Campus
+
 ![History of Water] (docs/history.md)
 
 ### Lake Mennith
@@ -25,3 +26,20 @@ Over 100 years ago near the founding of the University of St. Thomas, much of wh
 
 ### Secret Water Area in the Library! 
 creek underneath the campus
+
+## Water Justice in Minnesota
+### Line 3
+
+
+### Enbridge and the Bleeding Aquifer
+
+![Image of Enbridge lines] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wpr.org%2Fenbridge-fails-meet-aquifer-cleanup-deadline-minnesota&psig=AOvVaw0RHZRl5jkGj8fepMn_8rna&ust=1638465335665000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjyipyNw_QCFQAAAAAdAAAAABAJ)
+
+## Catholic Social Teaching and Water Justice:
+
+Catholic Social Teaching is an important part of the University of St. Thomas’s values and mission. One of the main principles of Catholic Social Teaching is Life and Dignity of the Human Person, which directly protects the preservation of water and water justice. The core of this principle of Catholic Social Teaching calls for everyone to care for each other and make sure that each person is able to live in a way that honors their human dignity; this ultimately includes having access to basic needs, especially water. The lack of access to clean water both locally and globally inevitably creates living conditions that do not honor the dignity of the human person. In order to be aligned with the University of St. Thomas’s values and those of Catholic Social Teaching, it is both important and necessary that we, as a community, work to protect and preserve water and the communities that are most affected by its scarcity. 
+
+## What You Can Do To Help:
+### Petitions and Resources:
+https://www.cleanwateraction.org/actnow
+
