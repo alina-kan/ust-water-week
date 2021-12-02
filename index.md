@@ -27,7 +27,7 @@ As part of the Minnesotan community, we should all know by now the pride that Mi
 
 ### Enbridge and the Bleeding Aquifer
 
-![Image of Enbridge lines](enbridge.jpg)
+![Image of Enbridge lines](assets/enbridge.jpg)
 
 ## Catholic Social Teaching and Water Justice:
 
