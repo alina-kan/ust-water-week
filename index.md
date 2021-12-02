@@ -10,7 +10,7 @@ filename: index.md
 
 > *Mni Wiconi - Water is Life*
 
-![Banner](https://pbs.twimg.com/media/FFjMwDQXwAAtJoY?format=jpg&name=large)
+![Banner](assets/banner.jpg)
 
 ### What is Water Week?
 From December 8 to December 15, the University of St. Thomas will celebrate water and explore what water is to us. Water has many different meanings to many people, but one universal idea stands out from the rest: "Water is Life." Water is constantly around us, and we use it in our everyday lives. From the food we eat to the clothes we wear, water is essential. 
@@ -19,19 +19,7 @@ From December 8 to December 15, the University of St. Thomas will celebrate wate
 
 [History of Water](https://alina-kan.github.io/history.html)
 
-### Lake Mennith
-Over 100 years ago near the founding of the University of St. Thomas, much of what we now know as the lower quad was covered in a lake -- Lake Mennith. Lake Mennith, (Mennith now the name of the building between Dowling Hall and SJV on the upper quad), covered much of the land of what is now occupied by O’Shaughnessy-Frey Library, O’Shaughnessy Educational Center, and Murray-Herrick Campus Center. However, after the construction of a sewer line under Summit Avenue, much of the lake was drained and eventually disappeared into the beautiful yet dry landscape that we have today. Although we can no longer see Lake Mennith or experience the joys of lake life that we all know to love in Minnesota, there is still a spot of campus where you can see what remains of Lake Mennith: the basement of the library. Deep in the base of O’Shaughnessy-Frey Library, in a plumbing closet and under a grate, you can not only see the water of Lake Mennith, but you can also hear the calming stream that used to encompass much of what we know now to be campus. Knowing our campus and its water history is an important part of moving forward to making water more visible throughout our community and our world.
-
-![Lake Mennith](https://news.stthomas.edu/wp-content/uploads/2021/07/lake-mennith-1887.jpg)
-
-### Murray J. Harpole Legacy Fountain
-Have you run through the fountain yet? One of St. Thomas students’ most beloved tradition comes from one of the most visible places that water is presented on campus. Installed in the summer of 2012, the Murray J. Harpole Legacy Fountain has become one of the most iconic features of the St. Thomas campus. With funding from Pentair Inc. (a Twin Cities water technologies company), the fountain was constructed to memorialize their first CEO, Murray J. Harpole, who was a longtime benefactor of UST’s engineering and entrepreneurship programs. Even though we love and cherish those who support our education at St. Thomas, it is important to think critically about how the fountain uses water on campus. 
-![The Famous UST Fountain](https://news.stthomas.edu/wp-content/uploads/2020/10/200929LJD037_015.jpg)
-
-### Secret Water Area in the Library! 
-Underneath the O'Shaughnessy-Frey library, you can hear the sound of water flowing. But where does it come from? Many years ago, a...
-
-![banner](https://stthomas.instructure.com/users/42657/files/5128731/preview?verifier=8s0US4RlnEvY2qi7mHCvnFKJBCYL8UhaQ9F9v1Yx)
+this is not correctly linked yet! please wait
 
 ## Water Justice in Minnesota
 ### Line 3
@@ -39,7 +27,7 @@ As part of the Minnesotan community, we should all know by now the pride that Mi
 
 ### Enbridge and the Bleeding Aquifer
 
-![Image of Enbridge lines](https://chorus.stimg.co/22931950/merlin_64484269.jpg?w=525&h=600&format=auto%2Ccompress&cs=tinysrgb&auto=compress&crop=faces&dpr=2)
+![Image of Enbridge lines](enbridge.jpg)
 
 ## Catholic Social Teaching and Water Justice:
 
