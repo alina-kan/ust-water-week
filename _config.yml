@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: "Water Week"
+include:
+  - index
+  - history
