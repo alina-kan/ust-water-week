@@ -1,5 +1,5 @@
 --- 
-layout: jekyll-theme-cayman
+layout: page
 title: "History of Water On Campus"
 permalink: /history/
 --- 
