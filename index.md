@@ -22,12 +22,7 @@ From December 8 to December 15, the University of St. Thomas will celebrate wate
 this is not correctly linked yet! please wait
 
 ## Water Justice in Minnesota
-### Line 3
-As part of the Minnesotan community, we should all know by now the pride that Minnesota takes in the lakes that call our state home. Because of this, it’s important to recognize the very real threats that our precious freshwater sources face here at home in Minnesota. One of the biggest threats is the construction of oil pipelines, particularly the construction of the Line 3 oil pipeline that stretches from Alberta, Canada, to Superior, Wisconsin, running through the treaty territories and wetlands of the Anishinaabe peoples. Pipelines break -- there’s no way of evading that inevitable future. In order to protect and respect our treaties, our freshwater resources, and the future of the wellbeing of our state, it’s utterly important that we reject the construction and usage of pipelines now and in the future. Please, to read more information and see what you can do to combat this issue, visit the Stop Line 3 website to learn more from our local organizers: https://www.stopline3.org/#intro.
-
-### Enbridge and the Bleeding Aquifer
-
-![Image of Enbridge lines](assets/enbridge.jpg)
+[Water Justice](https://alina-kan.github.io/water-justice/)
 
 ## Catholic Social Teaching and Water Justice:
 
