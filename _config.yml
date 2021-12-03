@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: "Water Week: Flowing Through St. Thomas"
+base url: alina-kan.github.io
 include:
   - _pages
