@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: "Water Week: Flowing Through St. Thomas"
+include:
+  - index.md
+  - history.md
