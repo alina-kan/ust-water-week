@@ -17,7 +17,7 @@ From December 8 to December 15, the University of St. Thomas will celebrate wate
 
 ## The History of Water On Campus
 
-[History of Water](https://alina-kan.github.io/history.html)
+[History of Water](https://alina-kan.github.io/_pages/history/)
 
 this is not correctly linked yet! please wait
 
