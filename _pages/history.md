@@ -1,7 +1,7 @@
 --- 
-title: History of Water on Campus
-layout: template
-filename: history.md
+layout: page
+title: "History of Water On Campus"
+permalink: /history/
 --- 
 
 ## The History of Water On Campus
