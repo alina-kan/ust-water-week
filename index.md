@@ -29,16 +29,10 @@ These are not correctly linked yet!
 ## How Water is Involved with Catholic Social Teaching
 [Catholic Social Teaching](https://alina-kan.github.io/teaching/)
 
+## What You Can Do To Help:
+[Resources and Petitions](https://alina-kan.github.io/resources/)
+
 ## Video: Water Traveling from UST to the Gulf of Mexico
 <p align="center">
 <iframe width="800" height="450" src="https://www.youtube.com/embed/F_JCGDkMq-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-
-## What You Can Do To Help:
-### Petitions and Resources:
-Clean Water Action is an environmental advocacy group whose mission is:
-
-#### "To protect our environment, health, economic well-being and community quality of life. Clean Water Action organizes strong grassroots groups and coalitions, and campaigns to elect environmental candidates and to solve environmental and community problems."
-
-On their website, they list different ways you can take action to protect our water on their website, and provide multiple different opportunities to help out. Find them here at [Clean Water Action](https://www.cleanwateraction.org/actnow)
-
