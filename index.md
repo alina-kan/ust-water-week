@@ -15,21 +15,12 @@ From December 8 to December 15, the University of St. Thomas will celebrate wate
 
 Click these links here to read more about the different aspects of water and its interactions with water:
 
+| All | Links |
 | [The History of Water On Campus](https://alina-kan.github.io/history/) | [Water Justice in Minnesota](https://alina-kan.github.io/water-justice/) |
 | --------------------------- | --------------------------- |
 | [University of St.Thomas First Sustainability Strategic Plan](https://alina-kan.github.io/sustainability/) | [How Water is Involved with Catholic Social Teaching](https://alina-kan.github.io/teaching/) |
 | --------------------------- | --------------------------- |
-| [What You Can Do To Help](https://alina-kan.github.io/resources/) |
-
-## [The History of Water On Campus](https://alina-kan.github.io/history/)
-
-## [Water Justice in Minnesota](https://alina-kan.github.io/water-justice/)
-
-## [University of St.Thomas First Sustainability Strategic Plan](https://alina-kan.github.io/sustainability/)
-
-## [How Water is Involved with Catholic Social Teaching](https://alina-kan.github.io/teaching/)
-
-## [What You Can Do To Help](https://alina-kan.github.io/resources/)
+| [What You Can Do To Help](https://alina-kan.github.io/resources/) | [Sources](https://alina-kan.github.io/sources/) |
 
 ## Video: Water Traveling from UST to the Gulf of Mexico
 <p align="center">
