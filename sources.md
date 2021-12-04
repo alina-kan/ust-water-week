@@ -4,7 +4,7 @@ layout: template
 permalink: /sources/
 ---
 
-### All Sources
+## All Sources
 [PBS Article on Enbridge](https://www.pbs.org/newshour/nation/enbridge-ordered-to-pay-3-million-for-line-3-groundwater-leak)
 
 [PDF on Water and Catholic Social Teaching](https://www.crs.org/sites/default/files/usops-resources/water-is-life-facilitator-guide_final3.pdf)
@@ -19,6 +19,7 @@ permalink: /sources/
 
 [Murray J Harpole Legacy Fountain](https://news.stthomas.edu/st-thomas-dedicates-harpole-fountain/)
 
+[GitHub Page to Build Multi-Page Website](https://phuston.github.io/patrickandfrantonarethebestninjas/howto)
 
 | All | Links |
 | ----- | ----- |

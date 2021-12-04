@@ -4,7 +4,7 @@ layout: template
 permalink: /resources/
 ---
 
-### Petitions and Resources:
+## Petitions and Resources:
 Clean Water Action is an environmental advocacy group whose mission is:
 #### "To protect our environment, health, economic well-being and community quality of life. Clean Water Action organizes strong grassroots groups and coalitions, and campaigns to elect environmental candidates and to solve environmental and community problems."
 
