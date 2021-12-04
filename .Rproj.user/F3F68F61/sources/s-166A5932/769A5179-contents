@@ -3,7 +3,7 @@ title: Water Week: Flowing Through St. Thomas
 layout: template
 filename: index.md
 ---
-###### Water Week: Flowing Through St. Thomas
+
 
 ### University of St. Thomas presents...
 
