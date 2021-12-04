@@ -34,9 +34,6 @@
 <!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
 
 <!-- end custom head snippets -->
-{% for page in site.pages %}
-    <a href={{ page.filename }}>{{ page.title }}</a>
-{% endfor %}
 
   </head>
   <body>
