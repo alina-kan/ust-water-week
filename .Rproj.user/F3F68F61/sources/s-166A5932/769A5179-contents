@@ -4,18 +4,22 @@ layout: template
 filename: index.md
 ---
 
-#### University of St. Thomas presents...
-
-# Water Week: Flowing Through St. Thomas INDEX PAGE
-
-> *Mni Wiconi - Water is Life*
+### University of St. Thomas presents...
 
 ![Banner](assets/banner.jpg)
 
-### What is Water Week?
+> *Mni Wiconi - Water is Life*
+
+## What is Water Week?
 From December 8 to December 15, the University of St. Thomas will celebrate water and explore what water is to us. Water has many different meanings to many people, but one universal idea stands out from the rest: "Water is Life." Water is constantly around us, and we use it in our everyday lives. From the food we eat to the clothes we wear, water is essential. 
 
-These are not correctly linked yet!
+Click these links here to read more about the different aspects of water and its interactions with water:
+
+| [The History of Water On Campus](https://alina-kan.github.io/history/) | [Water Justice in Minnesota](https://alina-kan.github.io/water-justice/) |
+| --------------------------- | --------------------------- |
+| [University of St.Thomas First Sustainability Strategic Plan](https://alina-kan.github.io/sustainability/) | [How Water is Involved with Catholic Social Teaching](https://alina-kan.github.io/teaching/) |
+| --------------------------- | --------------------------- |
+| [What You Can Do To Help](https://alina-kan.github.io/resources/) |
 
 ## [The History of Water On Campus](https://alina-kan.github.io/history/)
 
