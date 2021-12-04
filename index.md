@@ -11,7 +11,7 @@ filename: index.md
 ## What is Water Week?
 From December 8 to December 15, the University of St. Thomas will celebrate water and explore what water is to us. Water has many different meanings to many people, but one universal idea stands out from the rest: "Water is Life." Water is constantly around us, and we use it in our everyday lives. From the food we eat to the clothes we wear, water is essential. 
 
-Click these links here to read more about the different aspects of water and its interactions with water:
+Click these links here to read more about the different aspects of water and our interactions with water:
 
 | All | Links |
 | ----- | ----- |
