@@ -1,17 +1,7 @@
-#### University of St. Thomas presents...
+# Water Week: Flowing Through St. Thomas
 
-# Water Week: Flowing Through St. Thomas README
-main
+This website will be used for the "Water Week" event at the University of St. Thomas, where water and its unjustices will be explored in both religious and nonreligious aspects, and how we can fight water problems in many different ways. We explore the history of water on the St. Thomas Campus, the fight for water in Minnesota, the St. Thomas Sustainability plan and how water is involved in Dining Services, how water and Catholic Social Teaching come into play, and how anyone can find ways to fight for water in many different ways. All sources for information and help on the website is listed on the "Sources" tab on the Homepage.
 
-> *Mni Wiconi - Water is Life*
+The pages were written in Markdown, and the Github Pages theme (Cayman) uses Jekyll and HTML to format the subpages connected to one index page. To learn how to create a multi-page website, follow these instructions by Patrick Huston and Franton Lin on their website: https://phuston.github.io/patrickandfrantonarethebestninjas/howto
 
-### What is Water Week?
-From December 6 to December 10, the University of St. Thomas will celebrate water and explore what water is to us. Water has many different meanings to many people, but one universal idea stands out from the rest: "Water is Life." Water is constantly around us, and we use it in our everyday lives. From the food we eat to the clothes we wear, water is essential. 
-
-## The History of Water On Campus
-
-
-### Murray J. Harpole Legacy Fountain
-
-### Secret Water Area in the Library! 
-creek underneath the campus
+- created by Alina Kanayinkal
