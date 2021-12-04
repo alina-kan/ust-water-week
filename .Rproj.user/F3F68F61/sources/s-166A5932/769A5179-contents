@@ -4,9 +4,6 @@ layout: template
 filename: index.md
 ---
 
-
-### University of St. Thomas presents...
-
 ![Banner](assets/banner.jpg)
 
 > *Mni Wiconi - Water is Life*
