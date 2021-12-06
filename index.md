@@ -21,5 +21,5 @@ Click these links here to read more about the different aspects of water and our
 
 ## Video: Water Traveling from UST to the Gulf of Mexico
 <p align="center">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/F_JCGDkMq-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="950" height="534" src="https://www.youtube.com/embed/F_JCGDkMq-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
