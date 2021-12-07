@@ -10,15 +10,12 @@ As part of the Minnesotan community, we should all know by now the pride that Mi
 
 [Stop Line 3](https://www.stopline3.org/#intro)
 
-![Line 3 Image](assets/line3image.jpeg)
-
 ### Enbridge and the Bleeding Aquifer
 Despite the efforts of many local organizers to stop the creation and use of the Line 3 oil pipeline, the approval of the project went through, ultimately causing oil to start flowing through the lines in early October. Though there are major environmental and health concerns associated with the current use of the pipeline, the first detrimental effects were felt before the pipeline was even in use -- during its construction. Months ago, Enbridge, a natural gas distribution company that is in charge of constructing Line 3, dug too deep into the ground during the construction of the pipeline, piercing an aquifer. After five months of inaction on the leaking aquifer, the end result was a 24 million gallon groundwater leak. Critics note that Endbridge’s actions are not only a violation of state law, but also of public trust. As a result, Minnesota regulators and the Minnesota DNR have ordered Endbridge to pay $3 million for its violation of state environmental law and the resulting damages. 
 
 ![Image of Enbridge lines](assets/enbridge.jpg)
 
-| All | Links |
-| ----- | ----- |
-| [The History of Water On Campus](https://alina-kan.github.io/history/) | [Home](https://alina-kan.github.io) |
-| [University of St.Thomas First Sustainability Strategic Plan](https://alina-kan.github.io/sustainability/) | [How Water is Involved with Catholic Social Teaching](https://alina-kan.github.io/teaching/) |
-| [What You Can Do To Help](https://alina-kan.github.io/resources/) | [Sources](https://alina-kan.github.io/sources/) |
+### The Rights of Rivers: The Fight Against Commodification
+Indigenous communities challenge the view that water is a human commodity in many different parts of the world. But what about the people in the arid Southwest climate in the US? Doesn't water have to be commodified for the land's survival? This may not be the case. Hydrologist Paul Tashjian explores the old riverbed that once held the Rio Gallina and how the land around the bed has survived and thrived.
+
+Read the article here: [The Rights of Rivers](https://www.yesmagazine.org/environment/2021/12/02/rivers-right-to-flow)
