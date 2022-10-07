@@ -18,19 +18,19 @@ From December 8 to December 15, the University of St. Thomas will celebrate wate
 These are not correctly linked yet!
 
 ## The History of Water On Campus
-[History of Water](https://alina-kan.github.io/history/)
+[History of Water](https://alina-kan.github.io/waterweek/history/)
 
 ## Water Justice in Minnesota
-[Water Justice](https://alina-kan.github.io/water-justice/)
+[Water Justice](https://alina-kan.github.io/waterweek/water-justice/)
 
 ## University of St.Thomas First Sustainability Strategic Plan
-[Sustainability](https://alina-kan.github.io/sustainability/)
+[Sustainability](https://alina-kan.github.io/waterweek/sustainability/)
 
 ## How Water is Involved with Catholic Social Teaching
-[Catholic Social Teaching](https://alina-kan.github.io/teaching/)
+[Catholic Social Teaching](https://alina-kan.github.io/waterweek/teaching/)
 
 ## What You Can Do To Help:
-[Resources and Petitions](https://alina-kan.github.io/resources/)
+[Resources and Petitions](https://alina-kan.github.io/waterweek/resources/)
 
 ## Video: Water Traveling from UST to the Gulf of Mexico
 <p align="center">
