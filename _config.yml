@@ -1,5 +1,6 @@
-theme: jekyll-theme-cayman
+theme: minima
 title: "Water Week: Flowing Through St. Thomas"
+remote-theme: minima
 
 # SITE CONFIGURATION
 baseurl: ""
